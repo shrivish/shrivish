@@ -1,3 +1,4 @@
+![logo](https://github.com/shrivish/shrivish/blob/main/%40%20shrivish.png)
 <h1 align="center">Hi 👋, I'm Shristi Vishwakarma</h1>
 <h3 align="center">A passionate learner</h3>
 
